@@ -1,5 +1,5 @@
 # Amarender Reddy Jakka
-###  
+###  ENGINEER AT WORK 👨‍💻
 
 <p align="center">
  <img src="https://github.com/JAReddy/JAReddy/blob/main/developer-at-work-stockcake.jpeg" alt="Developer at work">
@@ -15,19 +15,19 @@
 
 <p align="center">
   <a href="https://x.com/imAmar_chinnu">
-    <img alt="Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
+    <img alt="Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/amarenderreddy/">
-    <img alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin: 0 10px;"/>
   </a>
   <a href="https://github.com/JAReddy">
-    <img alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
+    <img alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.instagram.com/amarender__reddy/">
-    <img alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <img alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" style="margin: 0 10px;"/>
   </a>
   <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
-    <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+    <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="margin: 0 10px;"/>
   </a>
 </p>
 
@@ -74,19 +74,17 @@ I am a passionate software engineer with a strong academic background and extens
   </tr>
 </table>
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=distributed-microblog&theme=tokyonight)]([https://github.com/JAReddy/distributed-microblog](https://github.com/JAReddy/distributed-microblog))
+<table>
+  <tr>
+    <td>
+      ![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight)
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight)
+    </td>
+  </tr>
+</table>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=canvas-cli-graphql&theme=tokyonight)]([https://github.com/JAReddy/canvas-cli-graphql](https://github.com/JAReddy/canvas-cli-graphql))
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=site-setup-with-ssl&theme=tokyonight)]([https://github.com/JAReddy/site-setup-with-ssl](https://github.com/JAReddy/site-setup-with-ssl))
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/JAReddy/CMPE138-MVPPredictor)) -->
-
-
-![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight)
 
 
 ## Skills

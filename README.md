@@ -8,7 +8,7 @@
 
  
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center"><b>Shreekar Kolanu</b> </p>
+ <p align="center"><b>Amarender Reddy Jakka</b> </p>
 </p>
 
 
@@ -73,7 +73,21 @@ Monitoring: Grafana, CloudWatch
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JAReddy.gif)](https://github4life.herokuapp.com/JAReddy)
 
+<p align="center">
 
+ 
+ <img src="https://thumbs.gfycat.com/ImaginativeMintyLabradorretriever-size_restricted.gif" alt="Hello world">
+
+
+
+
+
+
+<p align="center">
+ 
+ <h2>     </h2>
+
+</p>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/Skillz619/CMPE138-MVPPredictor))

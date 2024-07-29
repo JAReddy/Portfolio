@@ -77,10 +77,12 @@ I am a passionate software engineer with a strong academic background and extens
 <table>
   <tr>
     <td>
-      ![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight)
+      <a href="https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight"/>
     </td>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight)
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight"/>
     </td>
   </tr>
 </table>

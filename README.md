@@ -44,9 +44,9 @@
 
 <br/>
 
-
+<p>
 Hi there! I'm a highly skilled technologist with over 5 years of experience in software development. Check out my portfolio repository to learn more about my skills, experience, projects, and more!
-
+</p>
 
 ## About Me
 

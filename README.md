@@ -14,20 +14,20 @@
 
 
 <p align="center">
-  <a href="https://x.com/imAmar_chinnu">
-    <img alt="Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" style="margin: 0 10px;"/>
+  <a href="https://x.com/imAmar_chinnu" style="margin: 0 15px;">
+    <img alt="Amarender Reddy Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/amarenderreddy/">
-    <img alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin: 0 10px;"/>
+  <a href="https://www.linkedin.com/in/amarenderreddy/" style="margin: 0 15px;">
+    <img alt="Amarender Reddy LinkdeIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/JAReddy">
-    <img alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png" style="margin: 0 10px;"/>
+  <a href="https://github.com/JAReddy" style="margin: 0 15px;">
+    <img alt="Amarender Reddy  Github " width="32px" src="https://img.icons8.com/nolan/64/github.png"/>
   </a>
-  <a href="https://www.instagram.com/amarender__reddy/">
-    <img alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" style="margin: 0 10px;"/>
+  <a href="https://www.instagram.com/amarender__reddy/" style="margin: 0 15px;">
+    <img alt="Shreekar Instagram" width="32px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
-  <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
-    <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" style="margin: 0 10px;"/>
+  <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!" style="margin: 0 15px;">
+    <img alt="Gmail" width="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
 </p>
 

@@ -1,19 +1,11 @@
-# Welcome to Amarender Reddy's GitHub Profile!
+# Amarender Reddy Jakka
 ###  
 
 <p align="center">
-
- 
- <img src="https://github.com/Skillz619/Skillz619/blob/master/RedRocks-Shreek.jpeg" alt="Hello world">
-
- 
+ <img src="https://github.com/JAReddy/JAReddy/blob/main/developer-at-work-stockcake.jpeg" alt="Developer at work">
  <h2 align="center">Welcome To My Repository</h2>
  <p align="center"><b>Amarender Reddy Jakka</b> </p>
 </p>
-
-
-
-
 
 <p align="center"> 
   Visitor count<br>
@@ -21,31 +13,28 @@
 </p>
 
 
-
-<a href="https://x.com/imAmar_chinnu">
-<img align="left" alt=" |Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amarenderreddy/">
-<img align="left" alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-
-<a href="https://github.com/JAReddy">
-<img align="left" alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
-</a>
-
-<a href="https://www.instagram.com/amarender__reddy/">
-<img align="left" alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
-
-<a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
-<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
+<p align="center">
+  <a href="https://x.com/imAmar_chinnu">
+    <img align="left" alt=" |Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amarenderreddy/">
+    <img align="left" alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://github.com/JAReddy">
+    <img align="left" alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
+  </a>
+  <a href="https://www.instagram.com/amarender__reddy/">
+    <img align="left" alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
+  <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
+    <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  </a>
+</p>
 
 <br/>
 
 <p>
-Hi there! I'm a highly skilled technologist with over 5 years of experience in software development. Check out my portfolio repository to learn more about my skills, experience, projects, and more!
+  Hi there! I'm a highly skilled technologist with over 5 years of experience in software development. Check out my portfolio repository to learn more about my skills, experience, projects, and more!
 </p>
 
 ## About Me
@@ -56,12 +45,18 @@ I am a passionate software engineer with a strong academic background and extens
 [![GitHub Game of Life](https://github4life.herokuapp.com/JAReddy.gif)](https://github4life.herokuapp.com/JAReddy)
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=distributed-microblog&theme=tokyonight)]([https://github.com/JAReddy/distributed-microblog](https://github.com/JAReddy/distributed-microblog))
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/Skillz619/CMPE138-MVPPredictor))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=canvas-cli-graphql&theme=tokyonight)]([https://github.com/JAReddy/canvas-cli-graphql](https://github.com/JAReddy/canvas-cli-graphql))
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=site-setup-with-ssl&theme=tokyonight)]([https://github.com/JAReddy/site-setup-with-ssl](https://github.com/JAReddy/site-setup-with-ssl))
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/JAReddy/CMPE138-MVPPredictor))
 
 
 ![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight)
 
 

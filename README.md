@@ -25,19 +25,23 @@
 <a href="https://x.com/imAmar_chinnu">
 <img align="left" alt=" |Amarender Reddy Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 </a>
+
 <a href="https://www.linkedin.com/in/amarenderreddy/">
 <img align="left" alt="Amarender Reddy LinkdeIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
+
 <a href="https://github.com/JAReddy">
 <img align="left" alt="Amarender Reddy  Github " width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
 </a>
+
 <a href="https://www.instagram.com/amarender__reddy/">
 <img align="left" alt="Shreekar Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
+
 <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
 <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
-
+</a>
 
 <br >
 <br />
@@ -73,21 +77,6 @@ Monitoring: Grafana, CloudWatch
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JAReddy.gif)](https://github4life.herokuapp.com/JAReddy)
 
-<p align="center">
-
- 
- <img src="https://thumbs.gfycat.com/ImaginativeMintyLabradorretriever-size_restricted.gif" alt="Hello world">
-
-
-
-
-
-
-<p align="center">
- 
- <h2>     </h2>
-
-</p>
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/Skillz619/CMPE138-MVPPredictor))

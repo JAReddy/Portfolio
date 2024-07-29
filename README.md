@@ -1,4 +1,4 @@
-# Amarender Reddy Jakka
+# Welcome to Amarender Reddy's GitHub Profile!
 ###  
 
 <p align="center">
@@ -40,39 +40,17 @@
 
 <a href="mailto:amarenderreddyjakka@gmail.com?Subject=Reaching%20out%20for%20connection!">
 <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-
 </a>
 
-<br >
-<br />
-
-**Introduction:**
-
-At San Jose State University, my role as a Research Assistant involves innovating in the realm of data distribution, creating robust solutions using gRPC and WiFi Direct on Android platforms. This work exemplifies my dedication to leveraging technology for seamless communication and security. As a Software Development Engineer II at Amazon, I honed my problem-solving skills, ensuring reliable and user-centric API development.
-
-Currently, I am expanding my expertise through a Master's in Computer Software Engineering at SJSU, targeting to culminate my studies by December 2025. My academic and professional journey reflects a persistent pursuit of excellence in software solutions, underscored by effective troubleshooting and strong communication abilities.
-
-TECHNICAL SKILLS
-Application Frameworks: Spring, Spring Boot, Oracle ADF
-
-Languages: Java, SQL, C++, C#, Kotlin
-
-Web Development: React JS, JS
-
-Scripting: Shell, Python			
-
-Cloud Platform: AWS Cloud				
-
-Database Technologies:  MySQL, Oracle
-
-OS: Windows, Linux				
-
-Containerization: Docker, Kubernetes		
-
-Monitoring: Grafana, CloudWatch
-		
+<br/>
 
 
+Hi there! I'm a highly skilled technologist with over 5 years of experience in software development. Check out my portfolio repository to learn more about my skills, experience, projects, and more!
+
+
+## About Me
+
+I am a passionate software engineer with a strong academic background and extensive experience in delivering cutting-edge features. I am proficient in all stages of the software development lifecycle and excel in translating complex business needs into robust technical solutions.
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JAReddy.gif)](https://github4life.herokuapp.com/JAReddy)
@@ -81,30 +59,23 @@ Monitoring: Grafana, CloudWatch
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/JAReddy/CMPE138-MVPPredictor](https://github.com/Skillz619/CMPE138-MVPPredictor))
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Skillz619&repo=CMPE138-MVPPredictor&theme=tokyonight)]([https://github.com/Skillz619/CMPE138-MVPPredictor]([https://github.com/Skillz619/AWS-Jenkins-Sonarqube-Docker](https://github.com/Skillz619/CMPE138-MVPPredictor)))
 
 
-
-![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=Skillz619&show_icons=true&theme=tokyonight)
+![Amarender's github stats](https://github-readme-stats.vercel.app/api?username=JAReddy&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAReddy&theme=tokyonight)
 
 
-# Welcome to Amarender Reddy's GitHub Profile!
-
-Hi there! I'm a highly skilled technologist with over 5 years of experience in software development. Check out my portfolio repository to learn more about my skills, experience, projects, and more!
-
-[Visit my Portfolio](https://github.com/your-username/portfolio)
-
-## About Me
-
-I am a passionate software engineer with a strong academic background and extensive experience in delivering cutting-edge features. I am proficient in all stages of the software development lifecycle and excel in translating complex business needs into robust technical solutions.
-
 ## Skills
 
-- **Programming Languages**: Java, Python, SQL
-- **Frameworks**: Spring, Spring Boot
+- **Programming Languages**: Java, Python, SQL, C++, C#, Kotlin
+- **Frameworks**: Spring, Spring Boot, Oracle ADF
+- **Scripting**: Shell, Python
 - **Frontend Technologies**: ReactJS
+- **Clound Platform**: AWS
 - **Testing Tools**: Selenium, TestNG
+- **OS**: Linux
+- **Containerization**: Docker, Kubernetes
+- **Monitoring**: Grafana, CloudWatch
 - **Messaging Systems**: Kafka, RabbitMQ
 
 ## Experience
@@ -160,13 +131,6 @@ I am a passionate software engineer with a strong academic background and extens
   *November 2018*  
   GPA: 8.2/10
 
-## Projects
-
-### [Project Title]
-*Brief description of the project, technologies used, and your role.*
-
-### [Project Title]
-*Brief description of the project, technologies used, and your role.*
 
 ## Awards
 

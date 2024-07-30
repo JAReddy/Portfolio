@@ -108,9 +108,9 @@ I am a passionate software engineer with a strong academic background and extens
 **San Jose State University - San Jose, CA**  
 *January 2024 - Present*
 
-- Contributed to the development of an innovative application aimed at facilitating data mining and sharing within the realm of fire research and machine learning.
+- Contributed to the development of an innovative application aimed at facilitating disconnected data distribution.
 - Collaborated closely with a multidisciplinary team to refine the functionalities and user interface of the platform.
-- Conducted thorough literature reviews and assisted in data analysis to support the project's research objectives and enhance its efficacy.
+- Implemented the POC leveraging open-source K-9 Mail repository and assisted in end-to-end testing of the application.
 
 ### Software Development Engineer II
 **Amazon Development Centre - Bangalore, India**  

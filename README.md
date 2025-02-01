@@ -55,12 +55,22 @@ I am a passionate software engineer with a strong academic background and extens
       </a>
     </td>
     <td>
+      <a href="https://github.com/JAReddy/DiscoverDine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=DiscoverDine&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/JAReddy/canvas-cli-graphql">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=canvas-cli-graphql&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/JAReddy/FinChat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=FinChat&theme=tokyonight" />
+      </a>
+    </td>
     <td>
       <a href="https://github.com/JAReddy/site-setup-with-ssl">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=site-setup-with-ssl&theme=tokyonight" />

@@ -77,7 +77,7 @@ I am a passionate software engineer with a strong academic background and extens
       </a>
     </td>
     <td>
-      <a href="https://github.com/JAReddy/CMPE138-MVPPredictor">
+      <a href="https://github.com/JAReddy/CMPE138-MVPPredictor"> 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=CMPE138-MVPPredictor&theme=tokyonight" />
       </a>
     </td>

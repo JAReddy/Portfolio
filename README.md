@@ -50,6 +50,11 @@ I am a passionate software engineer with a strong academic background and extens
 <table>
   <tr>
     <td>
+      <a href="https://github.com/JAReddy/distributed-microblog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=distributed-microblog&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/JAReddy/DiscoverDine">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAReddy&repo=DiscoverDine&theme=tokyonight" />
       </a>
